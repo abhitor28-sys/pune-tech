@@ -1,0 +1,7 @@
+{
+  "name": "Pune TechPulse",
+  "description": "A real-time innovation and technology event tracker for Pune city, providing updates on expos, webinars, science fests, and innovation summits.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
